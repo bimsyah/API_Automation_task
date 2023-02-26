@@ -1,0 +1,14 @@
+{
+    "id": "3311",
+    "firstName": "Bima",
+    "lastName": "Syahputra",
+    "age": 26,
+    "occupation": "testing",
+    "nationality": "Indonesia",
+    "hobbies": [
+      "Basket"
+    ],
+    "gender": "MALE",
+    "createdDate": "2023-02-22T05:18:26.862Z",
+    "updatedDate": "2023-02-22T05:18:26.862Z"
+  }
